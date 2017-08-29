@@ -1,6 +1,6 @@
 # WorldDevelopmentIndicators
 1. Trabalho de Mineração de Dados 
-  ##1.1 Análise Exploratória
-  ##1.2 Pré-processamento
-  ##1.3 Geração de um modelo preditivo através de regressão linear
+2.  Análise Exploratória
+3.  Pré-processamento
+4.  Geração de um modelo preditivo através de regressão linear
   
